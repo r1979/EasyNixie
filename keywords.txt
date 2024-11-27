@@ -1,0 +1,22 @@
+# Classes
+EasyNixie	KEYWORD1
+
+# Methods
+begin	KEYWORD2
+print	KEYWORD2
+printClock	KEYWORD2
+clear	KEYWORD2
+setBrightness	KEYWORD2
+setTubeIntensity	KEYWORD2
+scrollText	KEYWORD2
+setBlank	KEYWORD2
+setPoint	KEYWORD2
+
+# Constants
+NIXIE_BLANK	LITERAL1
+NIXIE_POINT	LITERAL1
+
+# Special Characters
+DEGREE_CHAR	LITERAL1
+CELSIUS_CHAR	LITERAL1
+FAHRENHEIT_CHAR	LITERAL1
